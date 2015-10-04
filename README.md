@@ -1,4 +1,4 @@
-## Włodek Bzyl, matwb@ug.edu.pl
+## Przemysław Tomasik, ptomasik@sigma.ug.edu.pl
 
 Rozwiązania zadań z przedmiotu *Bazy NoSQL*:
 
