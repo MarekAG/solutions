@@ -3,9 +3,9 @@
 Rozwiązania zadań z przedmiotu *Bazy NoSQL*:
 
 1. [Zaliczenie](zaliczenie.md):
- - [ ] EDA
+ - [x] EDA
 1. [Egzamin](egzamin.md)
- - [ ] Aggregation Pipeline
+ - [x] Aggregation Pipeline
 
 Informacje o komputerze na którym były wykonywane obliczenia:
 
