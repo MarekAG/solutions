@@ -3,17 +3,19 @@
 Rozwiązania zadań z przedmiotu *Bazy NoSQL*:
 
 1. [Zaliczenie](zaliczenie.md):
- - [ ] Neo4j
  - [ ] EDA
 1. [Egzamin](egzamin.md)
  - [ ] Aggregation Pipeline
- - [ ] MapReduce
 
 Informacje o komputerze na którym były wykonywane obliczenia:
 
-* jaki procesor
-* ile pamięci RAM, jaki dysk (HD, SSD)
-* jaki system operacyjny + wersja,
- 32-bit czy 64-bit
+Obliczenia wykonywane byly na maszynie wirtualnej w chmurze Azure:
 
-Dane najlepiej przedstawić w formie tabelki.
+| Rodzaj komponentu     | Komponent                       |
+|-----------------------|---------------------------------|
+| System operacyjny     | Linux Ubuntu Server 15.04 (64-bitowy)  |
+| Procesor              | 2.4 GHz Intel Xeon® E5-2673 v3 (Haswell)   |
+| Ilość rdzeni          | 8                              |
+| Pamięć                | 28 GB                          |
+
+
