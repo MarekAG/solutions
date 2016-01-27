@@ -17,5 +17,7 @@ Obliczenia wykonywane byly na maszynie wirtualnej w chmurze Azure:
 | Procesor              | 2.4 GHz Intel Xeon® E5-2673 v3 (Haswell)   |
 | Ilość rdzeni          | 8                              |
 | Pamięć                | 28 GB                          |
+| Dysk| HDD|
+| Maks. IOPS | 16x500 |
 
 
